@@ -1,0 +1,15 @@
+{
+  "author": "Jann Horn <jannhorn@googlemail.com>",
+  "name": "colorhash",
+  "description": "Make blue midnight color hashes from the full visible spectrum",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thejh/node-colorhash",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejh/node-colorhash.git"
+  },
+  "dependencies": {
+    "insanehash": "*"
+  },
+  "devDependencies": {}
+}
